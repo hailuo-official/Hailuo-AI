@@ -148,4 +148,5 @@ You put bracketed commands in the prompt, such as [Pan left], [Push in], [Tilt u
 
 *This is an independent, community-maintained information repository about Hailuo AI. It is not affiliated with, endorsed by, or sponsored by MiniMax. All trademarks belong to their respective owners. Corrections welcome via issues.*
 
+
 _Last reviewed: 2026-09-22_
